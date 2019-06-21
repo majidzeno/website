@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.a593a20d.chunk.css",
+    "main.js": "/website/static/js/main.9473e5c4.chunk.js",
+    "main.js.map": "/website/static/js/main.9473e5c4.chunk.js.map",
+    "runtime~main.js": "/website/static/js/runtime~main.de462641.js",
+    "runtime~main.js.map": "/website/static/js/runtime~main.de462641.js.map",
+    "static/js/2.6cd622c0.chunk.js": "/website/static/js/2.6cd622c0.chunk.js",
+    "static/js/2.6cd622c0.chunk.js.map": "/website/static/js/2.6cd622c0.chunk.js.map",
+    "index.html": "/website/index.html",
+    "precache-manifest.fde0fd15f99b1616cc591faf9987435f.js": "/website/precache-manifest.fde0fd15f99b1616cc591faf9987435f.js",
+    "service-worker.js": "/website/service-worker.js",
+    "static/css/main.a593a20d.chunk.css.map": "/website/static/css/main.a593a20d.chunk.css.map",
+    "static/media/App.scss": "/website/static/media/Oswald-Light.d10552fd.ttf"
+  }
+}
