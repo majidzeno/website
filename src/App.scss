@@ -18,11 +18,11 @@
     width: 100%;
   }
   .profile {
-    max-width: 50%;
+    width: 100%;
+    max-width: 100%;
     // @include breakpoint(medium down) {
     //   max-width: 100%;
     // }
-    width: 100%;
     // border: 2px solid red;
     border-radius: 4px;
     position: absolute;
@@ -47,6 +47,8 @@
   }
   .social {
     &__container {
+           width: 100%; 
+    // max-width: 100%;
       //   border: 2px solid aqua;
       // @include breakpoint(medium down) {
       //   max-width: 100%;
